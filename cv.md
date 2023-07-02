@@ -8,13 +8,13 @@
 
 ## *About me*
 I just started my journey in learning frond-end programming. All my life I'm learning something: play piano, knitting, wood's carving or dancing bachata. Couple years ago I had an attempt to learn something about graphic design, because I always have interest in art, drawing, something what you can do with your own arms or something that you can see on screen. So now I fond of front-end development. I believe that I'll deal with all stages of studying and I hope I can change my profession after RS School.
+
 ## *Skills*
 - Html and CSS: basics
 - Adobe Illustrator
 - VS Code
 - Git, GitHub
-
-## Code Example
+## *Code Example*
 ```
 <!DOCTYPE HTML>
 <html>
@@ -25,3 +25,15 @@ I just started my journey in learning frond-end programming. All my life I'm lea
   </body>
 </html>
 ```
+
+## *Education*
+University: 
+State University of Humanities and Technology (State educational institution of higher professional education in the Moscow Region)
+Faculty of Philology (speciality: Russian, English)
+Courses:
+* CS50 lectures
+* FreeCodeCamp
+* RS School (in progress)
+## *Languages*
+* Russian - native speaker.
+* English - B2 
